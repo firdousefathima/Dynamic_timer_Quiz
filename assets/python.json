@@ -1,0 +1,88 @@
+[
+    {
+        "1":" Which of the following highly uses the concept of an array?",
+        "2": "Which one of the following is the process of inserting an element in the stack?",
+        "3": "Which of the following is linear Data Structure?",
+        "4": "Which data structure is mainly used for implementing the recursive algorithm?",
+        "5": "Which data structure is required to convert the infix to prefix notation?",
+        "6": "Which of the following is the infix expression?",
+        "7": "Which function finds out the Variable type in Python ?",
+        "8": "Which of the following keyword is used to define a function in Python ?",
+        "9": "Which function finds out the Variable type in Python ?",
+        "10": "Which of the following keyword is used to define a function in Python ?"
+    },
+    {
+        "1": {
+            "a": "Binary Search Tree",
+            "b": "Caching",
+            "c": "Spatial Locality",
+            "d": "Scheduling"
+        },
+        "2": {
+            "a": "Insert",
+            "b": "Add",
+            "c": "Push",
+            "d": "find"
+        },
+        "3": {
+            "a": "Stack",
+            "b": "Tree",
+            "c": "Graph",
+            "d": "None"
+        },
+        "4": {
+            "a": "Queue",
+            "b": "Stack",
+            "c": "Tree",
+            "d": "Graph"
+        },
+        "5": {
+            "a": "Stack",
+            "b": "Linked List",
+            "c": "Binary Tree",
+            "d": "Queue"
+        },
+        "6": {
+            "a": "A+B*C",
+            "b": "+A*BC",
+            "c": "ABC+*",
+            "d": "none"
+        },
+        "7": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        },
+        "8": {
+            "a": "func",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        },
+        "9": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        },
+        "10": {
+            "a": "func",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        }
+    },
+    {
+        "1": "Spatial Locality",
+        "2": "Push",
+        "3": "Stack",
+        "4": "Stack",
+        "5": "Stack",
+        "6": "A+B*C",
+        "7": "type",
+        "8": "def",
+        "9": "type",
+        "10": "def"
+    }
+]
