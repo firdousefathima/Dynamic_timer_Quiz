@@ -5,7 +5,7 @@ Dynamic timer quiz app with features like,
 
 * Login/Signup page
 
-* Firebase storage
+* MYSQL Database
 
 * Timer 
 
