@@ -1,5 +1,4 @@
-# Quizstar !
-
+#Dynamic Timer Quiz APP
   
 
 Dynamic timer quiz app with features like,
