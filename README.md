@@ -4,10 +4,11 @@
 Dynamic timer quiz app with features like,
 
 * Login/Signup page
+* Topic page
 
-* MYSQL Database
+* Mongo Database
 
-* Timer 
+* Timer for each questions
 
 * Button Color Changes On Click
 
